@@ -1,0 +1,37 @@
+footer{
+    background-color:lightgray;
+    height: 200px;
+    text-align: center;
+}
+body{
+    background-color: antiquewhite;
+}
+.tx{
+    border: 3px solid black;
+    background: radial-gradient(white, antiquewhite);
+    margin-top:20px;
+}
+.ca{
+    border: 3px solid black;
+    background: radial-gradient(white, antiquewhite);
+    margin-top:18px;
+}
+.ca2{
+    border: 3px solid black;
+    background: radial-gradient(white, antiquewhite);
+    
+}
+.le{
+    border: 3px solid black;
+    background: radial-gradient(white, antiquewhite);
+    margin-top:18px;
+}
+.so{
+    border: 3px solid black;
+    background: radial-gradient(white, antiquewhite);
+}
+.vi{
+    border: 3px solid black;
+    background: radial-gradient(white, antiquewhite);
+    margin-top:18px;
+}
